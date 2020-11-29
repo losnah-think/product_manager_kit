@@ -9,7 +9,7 @@ https://gs.statcounter.com/screen-resolution-stats
 
 ### 웹 스크린 사이즈
 
-전 세계 통계 : https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide
+전 세계 통계 : https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide <br>
 대한민국 통계 : https://gs.statcounter.com/screen-resolution-stats/desktop/south-korea
 
 대한민국 통계표 
@@ -44,7 +44,7 @@ https://gs.statcounter.com/screen-resolution-stats
 
 ### 모바일 스크린 사이즈
 
-전 세계 통계 : https://gs.statcounter.com/screen-resolution-stats/mobile/worldwide
+전 세계 통계 : https://gs.statcounter.com/screen-resolution-stats/mobile/worldwide <br>
 대한민국 통계 : https://gs.statcounter.com/screen-resolution-stats/mobile/south-korea
 
 대한민국 통계표
