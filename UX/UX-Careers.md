@@ -9,8 +9,6 @@ UX 디자이너들의 빈자리를 채우기 위해 많은 기업들이 애쓰�
 
 ## Interaction Designer
 
----
-
 Interaction Designer는 제품의 경험과 제품의 작동 방식을 설계하는 데 초점을 맞춥니다. 
 
 Interaction Designer들은 앱, 웹사이트 또는 다른 플랫폼에서 작업을 완료하기 위해 일반적인 사용자가 취하는 사용자 흐름 또는 경로를 이해하기 위해 노력합니다. 
@@ -25,7 +23,6 @@ Interaction Designer의 궁극적인 목표은 제품(앱,웹)과 사용자가 �
 
 ## Visual Designer
 
----
 
 Visual Designer는 제품이나 기술이 어떻게 보이는지에 신경씁니다. 
 
@@ -42,7 +39,6 @@ Visual Designer의 궁극적인 목표는 사용자에게 영감을 주고, 참�
 
 ## Motion Designer
 
----
 
 Motion Designer는 사용자가 제품을 통해 이동하는 것이 어떤 느낌인지, 앱이나 웹 사이트에서 페이지 간에 원활한 전환을 만드는 방법에 대해 생각합니다. 
 
@@ -58,7 +54,6 @@ Motion Designer는 위 문제들을 해결하기 위해서 기존의 정적인 �
 
 ## UX Researcher
 
----
 
 UX Researcher는 사람들이 제품을 어떻게 사용하는지 조사하는 연구나 인터뷰를 수행합니다. 
 
@@ -74,7 +69,6 @@ UX Researcher의 궁극적인 목표는 제품에 대하여 사용자가 겪고 
 
 ## UX writer
 
----
 
 UX Writer은 사용자 경험을 더 직관적으로 표현하기 위해 제품 내의 워딩을 더 명확하게 하는 방법을 고민합니다. 
 
@@ -90,7 +84,6 @@ UX Writer은 모든 사용자가 이해하기 쉬운 콘텐츠를 제공하기 �
 
 ## UX Program Manager
 
----
 
 UX Program Manager는 제품을 구축하는 과정이 처음부터 끝까지 원활하게 진행될 수 있도록 명확하고 시의 적절한 커뮤니케이션을 보장합니다. 목표 설정, 프로젝트 계획 작성 및 팀 리소스 할당이 포함될 수 있습니다.
 
@@ -103,7 +96,6 @@ UX Program Manager는 프로젝트 라이프사이클 전체에 걸쳐 UX가 참
 
 ## UX Engineer
 
----
 
 UX Engineer은 디자인의 의도를 앱이나 웹사이트와 같은 기능적인 경험으로 변환합니다. 이들은 UX 팀은 디자인이 직관적이고 기술적으로 실현 가능한지를 파악할 수 있습니다.
 
@@ -117,7 +109,6 @@ UX Engineer는 디자인과 개발을 종합하여 제품 컨셉에 생명을 �
 
 ## Conversation Desinger
 
----
 
 Conversational interface는 Google Assistant 및 Siri와 같은 지능형 가상 비서에서 대화할 수 있는 고객 서비스 시스템과 같은 대화형 음성 응답 시스템, 자동차 내비게이션 시스템과 챗봇까지도 포함되어 있습니다! Conversation Design은 사용자와 시스템 간의 상호작용에 자연스러운 실제 대화 행동을 제공할 수 있도록 설계하는 것입니다.
 
